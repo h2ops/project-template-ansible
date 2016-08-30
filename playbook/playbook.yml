@@ -1,0 +1,5 @@
+- hosts: host01
+  vars:
+    var1: hello
+  roles:
+    - role.one
