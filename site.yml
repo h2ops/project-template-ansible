@@ -1,4 +1,4 @@
 #!/usr/bin/env ansible-playbook
 
-#- include: playbooks/database.yml
-#- include: playbooks/stuff.yml
+#- include: playbook/database.yml
+#- include: playbook/stuff.yml
